@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Znake:jar">
+    <output-path>$PROJECT_DIR$/.idea/artifacts</output-path>
+    <root id="archive" name="Znake.jar">
+      <element id="module-output" name="Znake" />
+    </root>
+  </artifact>
+</component>
